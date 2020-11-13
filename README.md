@@ -3,7 +3,9 @@ http://localhost:8282/oauth/token send post request with client-id & secret, alo
 http://localhost:8282/check_token?token=kafjasfhoahfosffhiofhoasfhs send get request with the bearer token as header to verify token status  
 Springboot 2.3.5 RELEASE  
 JPA  
-PostgreSQL 13  
+PostgreSQL 13 
+Spring Web  
+Spring Cloud  
 Spring Security  
 Spring security Oauth2  
 Postman  
